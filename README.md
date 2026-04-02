@@ -1,5 +1,5 @@
 # Tetris Game
-This is a multi-threaded Tetris game in Java that uses Swing to create the Graphical User Interface.  I developed it for my final project in my Java Programming course at the University of Washington in the Undergraduate Program in Computer Science.
+This is a multi-threaded Tetris game in Java that uses Swing to create the Graphical User Interface.  I messed with this for fun in middle school. That was a while ago so I'm not sure how much of this was me and how much was from the University of Chicago Comp. Sci. Master's Program project but here we are.
 
 ## About
 - Uses the model-view-controller (MVC) pattern to divide the three parts of the application.
